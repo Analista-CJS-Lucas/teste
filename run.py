@@ -9,6 +9,6 @@ def NPS():
 
 @app.route("/")
 def index():
-    return ("<h1>Clinica São José</h1> <a href='https://cjs-nps.herokuapp.com/nps'><button>NPS</button></a>")
+    return ("<h1>Clinica São José</h1> <a href='https://saojoseclinicaintranet.herokuapp.com/nps'><button>NPS</button></a>")
 
     
